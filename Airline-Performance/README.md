@@ -8,7 +8,7 @@ To provide insights into airline efficiency and customer satisfaction.
 
 ## Tools Used
 - Power BI
-- Python
+- Excel
 - SQL
 
 ## Key Insights
